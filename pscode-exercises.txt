@@ -11,11 +11,11 @@ if the number is divisible by 2 it is even
 Write pseudo code that will perform the following.    
 
 a) Read in 5 separate numbers. / 2 4 6 8 10  
-b) Calculate the average of the five numbers. / 30
+b) Calculate the average of the five numbers. / 6
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers. / 2 10
 d) Write out the results found from steps b and c with a message describing what they are
 
- 30 is the sum of 2 4 6 8 10
+ 6 is the sum of 2 4 6 8 10
  of the 5 numbers listed
  2 is the minimum number
  10 is the maximum number
